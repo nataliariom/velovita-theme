@@ -1,0 +1,22 @@
+.btn-primary {
+    background-color: #DF703D;
+    border-color: #DF703D;
+  }
+  
+  .btn-primary:hover,
+  .btn-primary:focus {
+    background-color: #c76033;
+    border-color: #c76033;
+  }
+  
+  .btn-outline-primary {
+    color: #DF703D;
+    border-color: #DF703D;
+  }
+  
+  .btn-outline-primary:hover,
+  .btn-outline-primary:focus {
+    background-color: #DF703D;
+    color: white;
+  }
+  
